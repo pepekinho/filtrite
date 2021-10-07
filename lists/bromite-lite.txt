@@ -3,4 +3,6 @@ https://filters.adtidy.org/extension/chromium/filters/3_optimized.txt
 https://filters.adtidy.org/extension/chromium/filters/14_optimized.txt
 https://filters.adtidy.org/extension/chromium/filters/11_optimized.txt
 https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
 #https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/english.txt
