@@ -4,3 +4,8 @@ https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
+https://filters.adtidy.org/extension/ublock/filters/2_optimized.txt
+https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt
+https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt
+https://filters.adtidy.org/extension/ublock/filters/14_optimized.txt
+https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
