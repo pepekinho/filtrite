@@ -8,5 +8,3 @@ https://filters.adtidy.org/extension/ublock/filters/11_optimized.txt
 https://filters.adtidy.org/extension/ublock/filters/3_optimized.txt
 https://filters.adtidy.org/extension/ublock/filters/14_optimized.txt
 https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
-https://raw.githubusercontent.com/Yuki2718/adblock/master/no_gen_cosm/phhider-mob.txt
-https://raw.githubusercontent.com/Yuki2718/adblock/master/no_gen_cosm/phhider.txt
