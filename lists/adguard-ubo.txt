@@ -11,3 +11,4 @@ https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
 #https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/english.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2020.txt
 https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters-2021.txt
+https://raw.githubusercontent.com/Yuki2718/adblock/master/no_gen_cosm/phhider.txt
