@@ -1,3 +1,4 @@
 https://filters.adavoid.org/ultimate-ad-filter.txt
 https://easylist-downloads.adblockplus.org/abp-filters-anti-cv.txt
 https://raw.githubusercontent.com/abp-filters/abp-filters-anti-cv/master/english.txt
+https://raw.githubusercontent.com/Yuki2718/adblock/master/no_gen_cosm/phhider.txt
